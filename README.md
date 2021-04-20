@@ -13,8 +13,7 @@
 <p><em><b>I.D.E:</b></em> </p>
 <a href="#"><img src="https://img.shields.io/badge/IntelliJ-E94057?style=for-the-badge&logo=Intellij&logoColor=white"/>
 </a>
-</br>
-
+</br> 
 <h1><b>Hello, my name is Thiago Hercules 👋</b><i class="fas fa-code"></i></h1>
 <p><em>Jr. fullstack developer. | Freelancer Designer. </em></p>
 
